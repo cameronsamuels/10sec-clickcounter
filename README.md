@@ -1,2 +1,2 @@
-# 10sec-clickcounter
-10 Second Click Counter
+**10 Second Click Counter**
+<br>How many times can you click in 10 seconds?
