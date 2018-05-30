@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	color: #ddd;
+	font-family: sans-serif;
+	text-align: center;
+	user-select: none;
+	-webkit-user-select: none;
+	overflow: hidden;
+	-webkit-tap-highlight-color: transparent;
+}
+h1 {
+	margin: calc(2vmin + 10px) 0 0;
+}
+div:first-of-type {
+	margin: 20vmin 0 2vmin;
+	font-size: 16vmin;
+}
+div:nth-of-type(2) {
+	position: absolute;
+	bottom: 8px;
+	right: 8px;
+	font-size: 6vmax;
+}
